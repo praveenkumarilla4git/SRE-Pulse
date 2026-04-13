@@ -10,3 +10,10 @@ venv/
 
 # OS
 .DS_Store
+
+# Personal Data
+users.csv
+
+# Python artifacts
+__pycache__/
+*.pyc
